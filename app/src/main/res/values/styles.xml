@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="actionBarStyle">@style/ActionBar</item>
+    </style>
+    <style name="AppThemeNoBar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="ActionBar" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@color/blue</item>
+        <item name="background">@color/blue</item>
+    </style>
+    <style name="ItemTextStyle">
+        <item name="android:textSize">@dimen/text_size_item</item>
+        <item name="android:textColor">@color/l_brown</item>
+    </style>
+    <style name="MyTextStyle">
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+
+</resources>
