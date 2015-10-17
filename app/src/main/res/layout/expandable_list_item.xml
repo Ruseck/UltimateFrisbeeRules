@@ -3,8 +3,7 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="@dimen/text_padding"
-    android:baselineAligned="false">
+    android:padding="@dimen/text_padding">
 
 
     <TextView

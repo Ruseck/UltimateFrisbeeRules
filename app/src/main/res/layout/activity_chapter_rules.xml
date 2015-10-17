@@ -8,6 +8,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/elv"
-        android:groupIndicator="@drawable/indicator"
-        android:indicatorStart="@dimen/text_padding"/>
+        android:groupIndicator="@color/transparent"/>
 </LinearLayout>
